@@ -7,8 +7,8 @@ public class TestCase003 {
     //now git will not know what to do with this
     // when we merge and conflict will help
     
-
     // aweseom code
     // code finishednin feature branch
 // this is final result
 }
+This are the changes from GitHub
